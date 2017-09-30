@@ -1,4 +1,5 @@
- To execute:
+ Mission:
+ Allows you to evaluate the results of a bowling game.
 
  What you’ll need:
   - Maven Apache Maven 3 
